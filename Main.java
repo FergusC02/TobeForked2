@@ -4,6 +4,6 @@ public class Main{
 
         int a = 3;
 
-        int b = 4;
+        int b = 5;
     }
 }
